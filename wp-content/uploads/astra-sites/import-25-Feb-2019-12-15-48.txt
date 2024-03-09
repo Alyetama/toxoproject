@@ -1,0 +1,450 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: nginx/1.14.2
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.0
+PHP Max Input Vars 	: 3000
+PHP Max Post Size 	: 256M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 300
+Max Upload Size 	: 256 MB
+Memory Limit 		: 128M
+Timezone 		: 0
+
+-----
+
+Importing Started! - 00:19:06 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 00:19:07 UTC
+
+---
+
+2. Importing "XML"  - 00:19:08 UTC
+Imported "Neque" (category)
+Term 1 remapped to 3
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Brizy
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Imported "page" (elementor_library_type)
+Term 8 remapped to 4
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Imported "section" (elementor_library_type)
+Term 9 remapped to 5
+Imported "Menu" (nav_menu)
+Term 7 remapped to 6
+Imported "hiking" (Media)
+Post 29 remapped to 196
+Imported "hiking" (Media)
+Post 30 remapped to 197
+Imported "walk" (Media)
+Post 35 remapped to 198
+Imported "about-bg" (Media)
+Post 58 remapped to 199
+Imported "vision" (Media)
+Post 62 remapped to 200
+Imported "services-1" (Media)
+Post 91 remapped to 201
+Imported "services-2" (Media)
+Post 94 remapped to 202
+Imported "camping-02-free-img" (Media)
+Post 98 remapped to 203
+Imported "services-3" (Media)
+Post 99 remapped to 204
+Imported "quote" (Media)
+Post 132 remapped to 205
+Imported "19-1" (Media)
+Post 151 remapped to 206
+Imported "mission" (Media)
+Post 157 remapped to 207
+Imported "about-bg" (Media)
+Post 158 remapped to 208
+Imported "snow" (Media)
+Post 168 remapped to 209
+Imported "snow-1" (Media)
+Post 170 remapped to 210
+Imported "mountain-3" (Media)
+Post 177 remapped to 211
+Imported "section-bg" (Media)
+Post 178 remapped to 212
+Imported "water-sports-01" (Media)
+Post 179 remapped to 213
+Imported "water-sports-02" (Media)
+Post 180 remapped to 214
+Imported "water-sports-03" (Media)
+Post 182 remapped to 215
+Imported "water-sports-04" (Media)
+Post 183 remapped to 183
+Imported "winter-sports-01" (Media)
+Post 185 remapped to 216
+Imported "winter-sports-02" (Media)
+Post 186 remapped to 217
+Imported "winter-sports-03" (Media)
+Post 187 remapped to 218
+Imported "winter-sports-04" (Media)
+Post 188 remapped to 219
+Imported "camp-1" (Media)
+Post 190 remapped to 220
+Imported "camp-2" (Media)
+Post 191 remapped to 221
+Imported "camp-3" (Media)
+Post 192 remapped to 222
+Imported "camp-4" (Media)
+Post 193 remapped to 193
+Imported "services-bg" (Media)
+Post 194 remapped to 223
+Imported "adventure-black-logo@2x-161x40" (Media)
+Post 195 remapped to 224
+Imported "winter-sport" (Media)
+Post 198 remapped to 225
+Imported "project-background" (Media)
+Post 216 remapped to 226
+Imported "image-1" (Media)
+Post 228 remapped to 228
+Imported "hero-bg" (Media)
+Post 237 remapped to 237
+Imported "outdoor-facebook-yoast-free-img" (Media)
+Post 270 remapped to 270
+Imported "blog-bg-free-img" (Media)
+Post 275 remapped to 275
+Imported "blog-1-free-img" (Media)
+Post 278 remapped to 278
+Imported "blog1-free-img" (Media)
+Post 280 remapped to 280
+Imported "blog-2-free-img" (Media)
+Post 286 remapped to 286
+Imported "Home" (Page)
+Post 4 remapped to 287
+Imported "About" (Page)
+Post 5 remapped to 5
+Imported "Services" (Page)
+Post 6 remapped to 288
+Imported "Projects" (Page)
+Post 7 remapped to 289
+Imported "Contact" (Page)
+Post 8 remapped to 8
+Imported "" (Navigation Menu Item)
+Post 10 remapped to 290
+Processing menu item post_type
+Menu item 7 mapped to 289
+Imported "" (Navigation Menu Item)
+Post 11 remapped to 291
+Processing menu item post_type
+Menu item 6 mapped to 288
+Imported "" (Navigation Menu Item)
+Post 12 remapped to 292
+Processing menu item post_type
+Menu item 5 mapped to 5
+Imported "" (Navigation Menu Item)
+Post 13 remapped to 293
+Processing menu item post_type
+Menu item 4 mapped to 287
+Imported "astra" (Custom CSS)
+Post 49 remapped to 294
+Imported "" (Navigation Menu Item)
+Post 150 remapped to 295
+Processing menu item post_type
+Menu item 8 mapped to 8
+Imported "Blog" (Page)
+Post 273 remapped to 273
+Imported "blog2-free-img" (Media)
+Post 287 remapped to 296
+Imported "blog3-free-img" (Media)
+Post 289 remapped to 297
+Imported "blog-3-free-img" (Media)
+Post 290 remapped to 298
+Imported "blog-4-free-img" (Media)
+Post 294 remapped to 299
+Imported "blog4-free-img" (Media)
+Post 295 remapped to 300
+Imported "blog-5-free-img" (Media)
+Post 297 remapped to 301
+Imported "blog-6-free-img" (Media)
+Post 299 remapped to 302
+Imported "" (Navigation Menu Item)
+Post 310 remapped to 310
+Processing menu item post_type
+Menu item 273 mapped to 273
+Imported "Contact form" (Contact Form)
+Post 70 remapped to 311
+Imported "Top 5 Adventure Places In Habentia Spectent" (Post)
+Post 277 remapped to 277
+Imported "Exciting Forest Journeys In Voluptates Repudiandae" (Post)
+Post 285 remapped to 285
+Imported "Arizona Journey with molestiae non recusandae" (Post)
+Post 288 remapped to 312
+Imported "Into The Deep In Pacific With Vero Eeos" (Post)
+Post 293 remapped to 313
+Imported "Top 10 Adventure Places To Experience Quasi Architecto" (Post)
+Post 296 remapped to 314
+Imported "Awesome Place To Feel Dolores Eos" (Post)
+Post 298 remapped to 315
+Running post-processing for post 196
+Could not find the author for "hiking" (post #196)
+Post 196 was imported with author "satishk", but could not be found
+Running post-processing for post 197
+Could not find the author for "hiking" (post #197)
+Post 197 was imported with author "satishk", but could not be found
+Running post-processing for post 198
+Could not find the author for "walk" (post #198)
+Post 198 was imported with author "satishk", but could not be found
+Running post-processing for post 199
+Could not find the author for "about-bg" (post #199)
+Post 199 was imported with author "satishk", but could not be found
+Running post-processing for post 200
+Could not find the author for "vision" (post #200)
+Post 200 was imported with author "satishk", but could not be found
+Running post-processing for post 201
+Could not find the author for "services-1" (post #201)
+Post 201 was imported with author "satishk", but could not be found
+Running post-processing for post 202
+Could not find the author for "services-2" (post #202)
+Post 202 was imported with author "satishk", but could not be found
+Running post-processing for post 203
+Could not find the author for "camping-02-free-img" (post #203)
+Post 203 was imported with author "ramak", but could not be found
+Post 203 was marked for post-processing, but none was required.
+Running post-processing for post 204
+Could not find the author for "services-3" (post #204)
+Post 204 was imported with author "satishk", but could not be found
+Running post-processing for post 205
+Could not find the author for "quote" (post #205)
+Post 205 was imported with author "satishk", but could not be found
+Running post-processing for post 206
+Could not find the author for "19-1" (post #206)
+Post 206 was imported with author "ramak", but could not be found
+Running post-processing for post 207
+Could not find the author for "mission" (post #207)
+Post 207 was imported with author "satishk", but could not be found
+Running post-processing for post 208
+Could not find the author for "about-bg" (post #208)
+Post 208 was imported with author "satishk", but could not be found
+Running post-processing for post 209
+Could not find the author for "snow" (post #209)
+Post 209 was imported with author "satishk", but could not be found
+Running post-processing for post 210
+Could not find the author for "snow-1" (post #210)
+Post 210 was imported with author "satishk", but could not be found
+Running post-processing for post 211
+Could not find the author for "mountain-3" (post #211)
+Post 211 was imported with author "satishk", but could not be found
+Running post-processing for post 212
+Could not find the author for "section-bg" (post #212)
+Post 212 was imported with author "satishk", but could not be found
+Could not find the author for "water-sports-01" (post #213)
+Post 213 was imported with author "satishk", but could not be found
+Post 213 was marked for post-processing, but none was required.
+Running post-processing for post 214
+Could not find the author for "water-sports-02" (post #214)
+Post 214 was imported with author "satishk", but could not be found
+Post 214 was marked for post-processing, but none was required.
+Running post-processing for post 215
+Could not find the author for "water-sports-03" (post #215)
+Post 215 was imported with author "satishk", but could not be found
+Post 215 was marked for post-processing, but none was required.
+Running post-processing for post 183
+Could not find the author for "water-sports-04" (post #183)
+Post 183 was imported with author "satishk", but could not be found
+Post 183 was marked for post-processing, but none was required.
+Running post-processing for post 216
+Could not find the author for "winter-sports-01" (post #216)
+Post 216 was imported with author "satishk", but could not be found
+Post 216 was marked for post-processing, but none was required.
+Running post-processing for post 217
+Could not find the author for "winter-sports-02" (post #217)
+Post 217 was imported with author "satishk", but could not be found
+Post 217 was marked for post-processing, but none was required.
+Running post-processing for post 218
+Could not find the author for "winter-sports-03" (post #218)
+Post 218 was imported with author "satishk", but could not be found
+Post 218 was marked for post-processing, but none was required.
+Running post-processing for post 219
+Could not find the author for "winter-sports-04" (post #219)
+Post 219 was imported with author "satishk", but could not be found
+Post 219 was marked for post-processing, but none was required.
+Running post-processing for post 220
+Could not find the author for "camp-1" (post #220)
+Post 220 was imported with author "satishk", but could not be found
+Post 220 was marked for post-processing, but none was required.
+Running post-processing for post 221
+Could not find the author for "camp-2" (post #221)
+Post 221 was imported with author "satishk", but could not be found
+Post 221 was marked for post-processing, but none was required.
+Running post-processing for post 222
+Could not find the author for "camp-3" (post #222)
+Post 222 was imported with author "satishk", but could not be found
+Post 222 was marked for post-processing, but none was required.
+Running post-processing for post 193
+Could not find the author for "camp-4" (post #193)
+Post 193 was imported with author "satishk", but could not be found
+Post 193 was marked for post-processing, but none was required.
+Running post-processing for post 223
+Could not find the author for "services-bg" (post #223)
+Post 223 was imported with author "satishk", but could not be found
+Running post-processing for post 224
+Could not find the author for "adventure-black-logo@2x-161&#215;40" (post #224)
+Post 224 was imported with author "ramak", but could not be found
+Post 224 was marked for post-processing, but none was required.
+Running post-processing for post 225
+Could not find the author for "winter-sport" (post #225)
+Post 225 was imported with author "satishk", but could not be found
+Running post-processing for post 226
+Could not find the author for "project-background" (post #226)
+Post 226 was imported with author "satishk", but could not be found
+Running post-processing for post 228
+Could not find the author for "image-1" (post #228)
+Post 228 was imported with author "satishk", but could not be found
+Running post-processing for post 237
+Could not find the author for "hero-bg" (post #237)
+Post 237 was imported with author "satishk", but could not be found
+Running post-processing for post 270
+Could not find the author for "outdoor-facebook-yoast-free-img" (post #270)
+Post 270 was imported with author "ramak", but could not be found
+Post 270 was marked for post-processing, but none was required.
+Running post-processing for post 275
+Could not find the author for "blog-bg-free-img" (post #275)
+Post 275 was imported with author "rishabhm", but could not be found
+Running post-processing for post 278
+Could not find the author for "blog-1-free-img" (post #278)
+Post 278 was imported with author "rishabhm", but could not be found
+Running post-processing for post 280
+Could not find the author for "blog1-free-img" (post #280)
+Post 280 was imported with author "rishabhm", but could not be found
+Running post-processing for post 286
+Could not find the author for "blog-2-free-img" (post #286)
+Post 286 was imported with author "rishabhm", but could not be found
+Running post-processing for post 287
+Could not find the author for "Home" (post #287)
+Post 287 was imported with author "satishk", but could not be found
+Post 287 was marked for post-processing, but none was required.
+Running post-processing for post 5
+Could not find the author for "About" (post #5)
+Post 5 was imported with author "satishk", but could not be found
+Post 5 was marked for post-processing, but none was required.
+Running post-processing for post 288
+Could not find the author for "Services" (post #288)
+Post 288 was imported with author "satishk", but could not be found
+Post 288 was marked for post-processing, but none was required.
+Running post-processing for post 289
+Could not find the author for "Projects" (post #289)
+Post 289 was imported with author "satishk", but could not be found
+Post 289 was marked for post-processing, but none was required.
+Running post-processing for post 8
+Could not find the author for "Contact" (post #8)
+Post 8 was imported with author "satishk", but could not be found
+Post 8 was marked for post-processing, but none was required.
+Running post-processing for post 290
+Could not find the author for "" (post #290)
+Post 290 was imported with author "satishk", but could not be found
+Post 290 was marked for post-processing, but none was required.
+Running post-processing for post 291
+Could not find the author for "" (post #291)
+Post 291 was imported with author "satishk", but could not be found
+Post 291 was marked for post-processing, but none was required.
+Running post-processing for post 292
+Could not find the author for "" (post #292)
+Post 292 was imported with author "satishk", but could not be found
+Post 292 was marked for post-processing, but none was required.
+Running post-processing for post 293
+Could not find the author for "" (post #293)
+Post 293 was imported with author "satishk", but could not be found
+Post 293 was marked for post-processing, but none was required.
+Running post-processing for post 294
+Could not find the author for "astra" (post #294)
+Post 294 was imported with author "satishk", but could not be found
+Post 294 was marked for post-processing, but none was required.
+Running post-processing for post 295
+Could not find the author for "" (post #295)
+Post 295 was imported with author "sonalib", but could not be found
+Post 295 was marked for post-processing, but none was required.
+Running post-processing for post 273
+Could not find the author for "Blog" (post #273)
+Post 273 was imported with author "rishabhm", but could not be found
+Post 273 was marked for post-processing, but none was required.
+Running post-processing for post 296
+Could not find the author for "blog2-free-img" (post #296)
+Post 296 was imported with author "rishabhm", but could not be found
+Running post-processing for post 297
+Could not find the author for "blog3-free-img" (post #297)
+Post 297 was imported with author "rishabhm", but could not be found
+Running post-processing for post 298
+Could not find the author for "blog-3-free-img" (post #298)
+Post 298 was imported with author "rishabhm", but could not be found
+Running post-processing for post 299
+Could not find the author for "blog-4-free-img" (post #299)
+Post 299 was imported with author "rishabhm", but could not be found
+Running post-processing for post 300
+Could not find the author for "blog4-free-img" (post #300)
+Post 300 was imported with author "rishabhm", but could not be found
+Running post-processing for post 301
+Could not find the author for "blog-5-free-img" (post #301)
+Post 301 was imported with author "rishabhm", but could not be found
+Running post-processing for post 302
+Could not find the author for "blog-6-free-img" (post #302)
+Post 302 was imported with author "rishabhm", but could not be found
+Running post-processing for post 310
+Could not find the author for "" (post #310)
+Post 310 was imported with author "sonalib", but could not be found
+Post 310 was marked for post-processing, but none was required.
+Running post-processing for post 311
+Could not find the author for "Contact form" (post #311)
+Post 311 was imported with author "ramak", but could not be found
+Post 311 was marked for post-processing, but none was required.
+Running post-processing for post 277
+Could not find the author for "Top 5 Adventure Places In Habentia Spectent" (post #277)
+Post 277 was imported with author "rishabhm", but could not be found
+Post 277 was marked for post-processing, but none was required.
+Running post-processing for post 285
+Could not find the author for "Exciting Forest Journeys In Voluptates Repudiandae" (post #285)
+Post 285 was imported with author "rishabhm", but could not be found
+Post 285 was marked for post-processing, but none was required.
+Running post-processing for post 312
+Could not find the author for "Arizona Journey with molestiae non recusandae" (post #312)
+Post 312 was imported with author "rishabhm", but could not be found
+Post 312 was marked for post-processing, but none was required.
+Running post-processing for post 313
+Could not find the author for "Into The Deep In Pacific With Vero Eeos" (post #313)
+Post 313 was imported with author "rishabhm", but could not be found
+Post 313 was marked for post-processing, but none was required.
+Running post-processing for post 314
+Could not find the author for "Top 10 Adventure Places To Experience Quasi Architecto" (post #314)
+Post 314 was imported with author "rishabhm", but could not be found
+Post 314 was marked for post-processing, but none was required.
+Running post-processing for post 315
+Could not find the author for "Awesome Place To Feel Dolores Eos" (post #315)
+Post 315 was imported with author "rishabhm", but could not be found
+Post 315 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 00:20:26 UTC
+
+---
+
+4. Importing "Widgets"  - 00:20:27 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+
+---
+
+Import Complete!  - 00:20:30 UTC
